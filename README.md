@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 * **Web Technologies** : MongoDB, ReactJs, ExpressJs, NextJs
 * **Containerization**: Docker, Kubernetes, Openshift
 * **Monitoring and Logging**: Prometheus, Grafana, Zabbix, Nagios 
-* **Programming Languages**: Python, Bash, C++
+* **Programming Languages**: Python, Bash, C++, Rust, Java
 * **CI/CD**: Bamboo, Jenkins
 * **Additional Skills**: Virtualization, PXE, DNS, DHCP ,ML, AI
 
