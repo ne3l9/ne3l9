@@ -49,8 +49,8 @@
 
 ## 🤝 Let's Connect
 - 💬 Ask me about **Cloud, DevOps, Systems, AI**
-- 📫 Reach me at: *your-email-here*
-- 🌐 Portfolio: *your-website-here*
+- 📫 Reach me at: *pratyushkm2007@gmail.com*
+- 🌐 Portfolio: *in-progress*
 
 ---
 
