@@ -45,6 +45,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ne3l9&theme=radical" />
 </p>
 
+##LeetCode Stats
+![Leetcode Stats](https://leetcard.ne3l9/lapor?ext=heatmap)
+
 ---
 
 ## 🤝 Let's Connect
