@@ -44,9 +44,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ne3l9&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ne3l9&theme=radical" />
 </p>
-
-##LeetCode Stats
-![Leetcode Stats](https://leetcard.neel83.cool/lapor?ext=heatmap)
+---
+## 📊 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/neel83?theme=dark&font=baloo&ext=contest" />
+</p>
 
 ---
 
