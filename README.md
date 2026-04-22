@@ -46,7 +46,7 @@
 </p>
 
 ##LeetCode Stats
-![Leetcode Stats](https://leetcard.ne3l9/lapor?ext=heatmap)
+![Leetcode Stats](https://leetcard.ne3l9.cool/lapor?ext=heatmap)
 
 ---
 
